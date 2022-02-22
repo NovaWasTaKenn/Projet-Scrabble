@@ -51,3 +51,16 @@ C:\Users\Quentin Le Nestour\Videos\Desktop\Scrabble Solution\Scrabble\obj\Debug\
 C:\Users\Quentin Le Nestour\Videos\Desktop\Scrabble Solution\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.dll
 C:\Users\Quentin Le Nestour\Videos\Desktop\Scrabble Solution\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.pdb
 C:\Users\Quentin Le Nestour\Videos\Desktop\Scrabble Solution\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.genruntimeconfig.cache
+C:\Users\Quentin Le Nestour\Source\Repos\NovaWasTaKenn\Projet-Scrabble\Scrabble\bin\Debug\netcoreapp3.1\Scrabble.exe
+C:\Users\Quentin Le Nestour\Source\Repos\NovaWasTaKenn\Projet-Scrabble\Scrabble\bin\Debug\netcoreapp3.1\Scrabble.deps.json
+C:\Users\Quentin Le Nestour\Source\Repos\NovaWasTaKenn\Projet-Scrabble\Scrabble\bin\Debug\netcoreapp3.1\Scrabble.runtimeconfig.json
+C:\Users\Quentin Le Nestour\Source\Repos\NovaWasTaKenn\Projet-Scrabble\Scrabble\bin\Debug\netcoreapp3.1\Scrabble.runtimeconfig.dev.json
+C:\Users\Quentin Le Nestour\Source\Repos\NovaWasTaKenn\Projet-Scrabble\Scrabble\bin\Debug\netcoreapp3.1\Scrabble.dll
+C:\Users\Quentin Le Nestour\Source\Repos\NovaWasTaKenn\Projet-Scrabble\Scrabble\bin\Debug\netcoreapp3.1\Scrabble.pdb
+C:\Users\Quentin Le Nestour\Source\Repos\NovaWasTaKenn\Projet-Scrabble\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.csprojAssemblyReference.cache
+C:\Users\Quentin Le Nestour\Source\Repos\NovaWasTaKenn\Projet-Scrabble\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.AssemblyInfoInputs.cache
+C:\Users\Quentin Le Nestour\Source\Repos\NovaWasTaKenn\Projet-Scrabble\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.AssemblyInfo.cs
+C:\Users\Quentin Le Nestour\Source\Repos\NovaWasTaKenn\Projet-Scrabble\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.csproj.CoreCompileInputs.cache
+C:\Users\Quentin Le Nestour\Source\Repos\NovaWasTaKenn\Projet-Scrabble\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.dll
+C:\Users\Quentin Le Nestour\Source\Repos\NovaWasTaKenn\Projet-Scrabble\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.pdb
+C:\Users\Quentin Le Nestour\Source\Repos\NovaWasTaKenn\Projet-Scrabble\Scrabble\obj\Debug\netcoreapp3.1\Scrabble.genruntimeconfig.cache

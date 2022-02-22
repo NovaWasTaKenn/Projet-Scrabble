@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Quentin Le Nestour\\source\\repos\\Scrabble Solution\\Scrabble\\Scrabble.csproj": {}
+    "C:\\Users\\Quentin Le Nestour\\Source\\Repos\\NovaWasTaKenn\\Projet-Scrabble\\Scrabble\\Scrabble.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Quentin Le Nestour\\source\\repos\\Scrabble Solution\\Scrabble\\Scrabble.csproj": {
+    "C:\\Users\\Quentin Le Nestour\\Source\\Repos\\NovaWasTaKenn\\Projet-Scrabble\\Scrabble\\Scrabble.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Quentin Le Nestour\\source\\repos\\Scrabble Solution\\Scrabble\\Scrabble.csproj",
+        "projectUniqueName": "C:\\Users\\Quentin Le Nestour\\Source\\Repos\\NovaWasTaKenn\\Projet-Scrabble\\Scrabble\\Scrabble.csproj",
         "projectName": "Scrabble",
-        "projectPath": "C:\\Users\\Quentin Le Nestour\\source\\repos\\Scrabble Solution\\Scrabble\\Scrabble.csproj",
+        "projectPath": "C:\\Users\\Quentin Le Nestour\\Source\\Repos\\NovaWasTaKenn\\Projet-Scrabble\\Scrabble\\Scrabble.csproj",
         "packagesPath": "C:\\Users\\Quentin Le Nestour\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Quentin Le Nestour\\source\\repos\\Scrabble Solution\\Scrabble\\obj\\",
+        "outputPath": "C:\\Users\\Quentin Le Nestour\\Source\\Repos\\NovaWasTaKenn\\Projet-Scrabble\\Scrabble\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Quentin Le Nestour\\AppData\\Roaming\\NuGet\\NuGet.Config",

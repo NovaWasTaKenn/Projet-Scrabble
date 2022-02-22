@@ -1,0 +1,15 @@
+Ru;Ve;Ve;Bc;Ve;Ve;Ve;Ru;Ve;Ve;Ve;Bc;Ve;Ve;Ru
+Ve;Ro;Ve;Ve;Ve;Bf;Ve;Ve;Ve;Bf;Ve;Ve;Ve;Ro;Ve
+Ve;Ve;Ro;Ve;Ve;Ve;Bc;Ve;Bc;Ve;Ve;Ve;Ro;Ve;Ve
+Bc;Ve;Ve;Ro;Ve;Ve;Ve;Bc;Ve;Ve;Ve;Ro;Ve;Ve;Bc
+Ve;Ve;Ve;Ve;Ro;Ve;Ve;Ve;Ve;Ve;Ro;Ve;Ve;Ve;Ve
+Ve;Bf;Ve;Ve;Ve;Bf;Ve;Ve;Ve;Bf;Ve;Ve;Ve;Bf;Ve
+Ve;Ve;Bc;Ve;Ve;Ve;Bc;Ve;Bc;Ve;Ve;Ve;Bc;Ve;Ve
+Ru;Ve;Ve;Bc;Ve;Ve;Ve;Ve;Ve;Ve;Ve;Bc;Ve;Ve;Ru
+Ve;Ve;Bc;Ve;Ve;Ve;Bc;Ve;Bc;Ve;Ve;Ve;Bc;Ve;Ve
+Ve;Bf;Ve;Ve;Ve;Bf;Ve;Ve;Ve;Bf;Ve;Ve;Ve;Bf;Ve
+Ve;Ve;Ve;Ve;Ro;Ve;Ve;Ve;Ve;Ve;Ro;Ve;Ve;Ve;Ve
+Bc;Ve;Ve;Ro;Ve;Ve;Ve;Bc;Ve;Ve;Ve;Ro;Ve;Ve;Bc
+Ve;Ve;Ro;Ve;Ve;Ve;Bc;Ve;Bc;Ve;Ve;Ve;Ro;Ve;Ve
+Ve;Ro;Ve;Ve;Ve;Bf;Ve;Ve;Ve;Bf;Ve;Ve;Ve;Ro;Ve
+Ru;Ve;Ve;Bc;Ve;Ve;Ve;Ru;Ve;Ve;Ve;Bc;Ve;Ve;Ru
